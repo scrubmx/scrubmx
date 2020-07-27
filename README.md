@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m a software developer from Mexico City with 8+ years of experience in advanced PHP development.
+I’m passionate about writing well tested, maintainable, scalable code. 
+I believe in building great products and enjoy constantly challenging myself to learn more.
+
 <!--
 **scrubmx/scrubmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
