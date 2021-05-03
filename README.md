@@ -1,23 +1,14 @@
 ### Hi there 👋
 
-I'm a software developer from Mexico City. I’m passionate about writing well tested, maintainable, scalable code.
+[![twitter](https://img.shields.io/badge/@scrubmx-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/scrubmx)
+[![linkedin](https://img.shields.io/badge/Jorge_Gonzalez-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://linkedin.com/in/jorge-gonzalez-padilla)
+
+👨‍💻 I'm a software developer from Mexico City 🇲🇽. I’m passionate about writing well tested, maintainable, scalable code.
 I believe in building great products and enjoy constantly challenging myself to learn more.
 
-#### 🏆 GitHub Trophies
+<details>
+  <summary>:octocat: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=scrubmx&show_icons=true&hide_border=true&hide_title=true" alt="GitHub Stats" />  
+</details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=scrubmx&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--
-**scrubmx/scrubmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- **scrubmx/scrubmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
