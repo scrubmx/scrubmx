@@ -3,6 +3,10 @@
 I'm a software developer from Mexico City. I’m passionate about writing well tested, maintainable, scalable code.
 I believe in building great products and enjoy constantly challenging myself to learn more.
 
+#### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=scrubmx&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **scrubmx/scrubmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
