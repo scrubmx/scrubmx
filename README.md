@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Jorge. I'm a software developer from Mexico City. 
+My name is Jorge. I'm a software developer from Mexico City.
 
-I've always been passionate about writing code, learning new technologies, and exploring new programming languages. 
+In my current role I work with Laravel and Livewire but I'm constantly seeking out new challenges and opportunities to grow as a developer.
 
-I'm interested in functional programming and have been exploring languages such as Clojure and Elixir. I believe that functional programming has the potential to immensely improve the reliability, scalability, and maintainability of software.
+I have a particular interest in functional programming and have been exploring languages such as Clojure and Elixir. I believe that functional programming has the potential to greatly improve the reliability, scalability, and maintainability of software.
 
 I'm also a supporter of open-source software and often contribute to projects on GitHub.
 
