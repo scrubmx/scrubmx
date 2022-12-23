@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-I'm a software developer from Mexico City. I’m passionate about writing well tested, maintainable, scalable code.
-I believe in building great products and enjoy constantly challenging myself to learn more.
+My name is Jorge. I'm a software developer from Mexico City. 
+
+I've always been passionate about writing code, learning new technologies, and exploring new programming languages. 
+
+I'm interested in functional programming and have been exploring languages such as Clojure and Elixir. I believe that functional programming has the potential to immensely improve the reliability, scalability, and maintainability of software.
+
+I'm also a supporter of open-source software and often contribute to projects on GitHub.
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=111&logoColor=AAA&style=flat-square)
