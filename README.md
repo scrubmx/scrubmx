@@ -2,7 +2,7 @@
 
 My name is Jorge. I'm a software developer from Mexico City.
 
-In my current role I work with Laravel and Livewire but I'm constantly seeking out new challenges and opportunities to grow as a developer.
+In my current role, I work with Laravel and Livewire but I'm constantly seeking out new challenges and opportunities to grow as a developer.
 
 I have a particular interest in functional programming and have been exploring languages such as Clojure and Elixir. I believe that functional programming has the potential to greatly improve the reliability, scalability, and maintainability of software.
 
@@ -17,7 +17,11 @@ I'm also a supporter of open-source software and often contribute to projects on
 
 <details>
   <summary>:octocat: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=scrubmx&show_icons=true&hide_border=true&hide_title=true" alt="GitHub Stats" />  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=scrubmx&show_icons=true&hide_border=true&hide_title=true&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=scrubmx&show_icons=true&hide_border=true&hide_title=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=scrubmx&show_icons=true&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  </picture>
 </details>
 
 <!-- **scrubmx/scrubmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
