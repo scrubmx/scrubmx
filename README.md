@@ -14,8 +14,8 @@ I'm also a supporter of open-source software and often contribute to projects on
 ![elixir](https://img.shields.io/static/v1?logo=elixir&label=&message=Elixir&color=111&logoColor=AAA&style=flat-square)
 ![phoenix](https://img.shields.io/static/v1?logo=phoenixframework&label=&message=Phoenix&color=111&logoColor=AAA&style=flat-square)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=111&logoColor=AAA&style=flat-square)
-![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=Ruby&color=111&logoColor=AAA&style=flat-square)
-
+![vue.js](https://img.shields.io/static/v1?logo=vue.js&label=&message=Vue.js&color=111&logoColor=AAA&style=flat-square)
+<!-- ![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=Ruby&color=111&logoColor=AAA&style=flat-square) -->
 <!-- ![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=111&logoColor=AAA&style=flat-square&link=) -->
 
 <details>
