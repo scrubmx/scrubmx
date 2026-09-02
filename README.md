@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-My name is Jorge. I'm a software developer from Mexico City.
+I'm Jorge, a Senior Software Developer based in Mexico City.
 
-In my current role, I work with Laravel and Livewire but I'm constantly seeking out new challenges and opportunities to grow as a developer.
+Most of my work is backend. Right now, that's NestJS and Next.js with Postgres and Redis for a financial platform.
 
-I have a particular interest in functional programming and have been exploring languages such as Clojure and Elixir. I believe that functional programming has the potential to greatly improve the reliability, scalability, and maintainability of software.
+Before that, it was mostly PHP and Laravel, which is still where most of my open-source work lives.
 
-I'm also a supporter of open-source software and often contribute to projects on GitHub.
+Functional programming is the part I keep coming back to.
+I led a migration of a Python/Lambda REST platform to an Elixir and Phoenix GraphQL API.
+
+I'm also a supporter of open-source software and have contributed to [@laravel](https://github.com/laravel/laravel) and other open-source projects.
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=111&logoColor=AAA&style=flat-square)
