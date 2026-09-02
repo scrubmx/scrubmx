@@ -34,9 +34,9 @@ I'm also a supporter of open-source software and have contributed to [@laravel](
 <details>
   <summary>:octocat: Github Stats</summary>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=scrubmx&show_icons=true&hide_border=true&hide_title=true&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-stats-extended.vercel.app/api?username=scrubmx&show_icons=true&hide_border=true&hide_title=true" />
-    <img src="https://github-stats-extended.vercel.app/api?username=scrubmx&show_icons=true&hide_border=true&hide_title=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=scrubmx&show_icons=true&hide_border=true&hide_title=true&theme=github_dark&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-stats-extended.vercel.app/api?username=scrubmx&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" />
+    <img src="https://github-stats-extended.vercel.app/api?username=scrubmx&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
   </picture>
 </details>
 
