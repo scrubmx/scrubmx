@@ -1,3 +1,9 @@
+<img 
+  width="100%" 
+  src="https://github.com/user-attachments/assets/a244cbf8-c6d7-476a-a27f-5ddc86cb4445" 
+  alt="Jorge González — Senior Software Engineer"
+/>
+
 ### Hi there 👋
 
 I'm Jorge, a Senior Software Developer based in Mexico City.
