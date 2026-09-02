@@ -8,12 +8,12 @@
 
 I'm Jorge, a Senior Software Developer based in Mexico City.
 
-Most of my work is backend. Right now, that's NestJS and Next.js with Postgres and Redis for a financial platform.
+Most of my work is backend. Right now, that's **NestJS** and **Next.js** with **Postgres** and **Redis** for a financial platform.
 
-Before that, it was mostly PHP and Laravel, which is still where most of my open-source work lives.
+Before that, it was mostly **PHP** and **Laravel**, which is still where most of my open-source work lives.
 
 Functional programming is the part I keep coming back to.
-I led a migration of a Python/Lambda REST platform to an Elixir and Phoenix GraphQL API.
+I led a migration of a Python/Lambda REST platform to an **Elixir** and **Phoenix Framework** powered GraphQL API.
 
 I'm also a supporter of open-source software and have contributed to [@laravel](https://github.com/laravel/laravel) and other open-source projects.
 
